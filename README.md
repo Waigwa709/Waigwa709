@@ -1,5 +1,5 @@
 # About Me:
-A Passionate and self-driven software developer with a strong foundation in JavaScript, PHP (Laravel), and MySQL. I specialize in building dynamic web apps.
+Software Developer and DevOps enthusiast passionate about building scalable digital solutions, solving real-world problems, and helping businesses grow through innovative technology.
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Waigwa709&theme=radical&no-frame=false&no-bg=false&margin-w=4)
